@@ -1,0 +1,20 @@
+# Keil/MDK generated build output
+KEY/MDK-ARM/KEY/*.o
+KEY/MDK-ARM/KEY/*.d
+KEY/MDK-ARM/KEY/*.axf
+KEY/MDK-ARM/KEY/*.hex
+KEY/MDK-ARM/KEY/*.map
+KEY/MDK-ARM/KEY/*.htm
+KEY/MDK-ARM/KEY/*.lnp
+KEY/MDK-ARM/KEY/*.sct
+KEY/MDK-ARM/KEY/*_KEY.dep
+
+# Keil logs, lock files and per-user settings
+KEY/MDK-ARM/*.uvoptx
+KEY/MDK-ARM/*.uvguix*
+KEY/MDK-ARM/*_Sequences_*.log
+KEY/MDK-ARM/.vscode/
+
+# Generic editor/system files
+.DS_Store
+Thumbs.db
